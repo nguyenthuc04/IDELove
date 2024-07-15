@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933313624834",
+    "project_id": "lovedistance-36913",
+    "storage_bucket": "lovedistance-36913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933313624834:android:8ee355bc5fa9d9592e601b",
+        "android_client_info": {
+          "package_name": "com.thuc0502.lovedistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933313624834-js95igjrn4sigf9ussvvhb4n25rvscb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6L2LO2LPaKyD4M523yIhGUtAfi-MPDNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933313624834-js95igjrn4sigf9ussvvhb4n25rvscb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
